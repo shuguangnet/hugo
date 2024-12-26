@@ -4,7 +4,7 @@ const userConfig: UserConfig = {
     base_url: "https://shuguangnet.github.io",
     mount: {
         manual: false,
-        page_url: 'https://volcano-second-271.notion.site/Notion-Hugo-1688ec4a64a7808fbb2ff2f3dc7b034f',
+        page_url: 'https://shuguangnet.notion.site/Notion-Hugo-1688ec4a64a7808fbb2ff2f3dc7b034f',
         pages: [
             // {
             //     page_id: '<page_id>',
